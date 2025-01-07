@@ -1,5 +1,5 @@
 # Welcome to My Lab! 👋  
-Hi, I'm a young and passionate software developer and electronics tinkerer from Lithuania 🇱🇹. I enjoy building solutions that involce audio, automation, and cryptography.  
+Hi, I'm a young and passionate software developer and electronics tinkerer from Lithuania 🇱🇹. I enjoy building solutions that involve audio, automation, and cryptography.  
 
 ### 🚀 Current Projects
 - **OSMix**: Open-source performance DJing software.
